@@ -1,0 +1,266 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="Hello World Project" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/helloworldproject/MainActivity.kt">
+          <provider selected="true" editor-type-id="android-source-code">
+            <state selected-layout="SHOW_EDITOR">
+              <editor-state relative-caret-position="88">
+                <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+              </editor-state>
+              <multi-preview-state selected="Compose">
+                <representations>
+                  <list>
+                    <representation name="Compose">
+                      <settings>
+                        <setting name="previewLayout" value="Vertical Layout" />
+                        <setting name="selectedGroup" value="" />
+                      </settings>
+                    </representation>
+                  </list>
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/com/example/helloworldproject/ExampleInstrumentedTest.kt">
+          <provider selected="true" editor-type-id="android-source-code">
+            <state selected-layout="SHOW_EDITOR">
+              <editor-state relative-caret-position="352">
+                <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+              </editor-state>
+              <multi-preview-state selected="Compose">
+                <representations>
+                  <list>
+                    <representation name="Compose">
+                      <settings>
+                        <setting name="previewLayout" value="Vertical Layout" />
+                        <setting name="selectedGroup" value="" />
+                      </settings>
+                    </representation>
+                  </list>
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/test/java/com/example/helloworldproject/ExampleUnitTest.kt">
+          <provider selected="true" editor-type-id="android-source-code">
+            <state selected-layout="SHOW_EDITOR">
+              <editor-state relative-caret-position="198">
+                <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+              </editor-state>
+              <multi-preview-state selected="Compose">
+                <representations>
+                  <list>
+                    <representation name="Compose">
+                      <settings>
+                        <setting name="previewLayout" value="Vertical Layout" />
+                        <setting name="selectedGroup" value="" />
+                      </settings>
+                    </representation>
+                  </list>
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="Kotlin">
+      <summary usageCount="3" lastUsed="1687878484748" />
+    </fileType>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="kotlin">
+      <summary usageCount="3" lastUsage="1687878484748" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="AndroidView" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Hello World Project" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="Hello World Project" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="Hello World Project" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="helloworldproject" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hello World Project" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="helloworldproject" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hello World Project" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="helloworldproject" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Android App.app" executorId="Run" />
+    </history>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info id="Build Variants" order="0" side_tool="true" />
+      <window_info id="Structure" order="0" side_tool="true" />
+      <window_info id="Resources Explorer" order="0" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25026652" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" show_stripe_button="false" weight="0.3301217" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Android Profiler" order="4" />
+      <window_info anchor="bottom" id="Logcat" order="4" />
+      <window_info anchor="bottom" id="App Quality Insights" order="4" />
+      <window_info anchor="bottom" id="Build" order="4" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Layout Inspector" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="App Inspection" order="4" />
+      <window_info anchor="right" id="Assistant" order="0" weight="0.24653518" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
+      <window_info anchor="right" id="App Links Assistant" order="0" />
+      <window_info anchor="right" id="Device Manager" order="0" weight="0.3302239" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="Running Devices" order="0" side_tool="true" weight="0.3302239" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Device Manager</value>
+      <value>Running Devices</value>
+      <value>Run</value>
+      <value>Assistant</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1828" height="297" key="GridCell.Tab.0.bottom" timestamp="1687878675518">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1828" height="297" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1687878675518" />
+    <state width="1828" height="297" key="GridCell.Tab.0.center" timestamp="1687878675518">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1828" height="297" key="GridCell.Tab.0.center/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1687878675518" />
+    <state width="1828" height="297" key="GridCell.Tab.0.left" timestamp="1687878675518">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1828" height="297" key="GridCell.Tab.0.left/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1687878675518" />
+    <state width="1828" height="297" key="GridCell.Tab.0.right" timestamp="1687878675518">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1828" height="297" key="GridCell.Tab.0.right/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1687878675518" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/test/java/com/example/helloworldproject/ExampleUnitTest.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="198">
+            <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Vertical Layout" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/com/example/helloworldproject/ExampleInstrumentedTest.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="352">
+            <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Vertical Layout" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/helloworldproject/MainActivity.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="88">
+            <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Vertical Layout" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

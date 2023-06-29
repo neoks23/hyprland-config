@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<!DOCTYPE Menu
+  PUBLIC '-//freedesktop//DTD Menu 1.0//EN'
+  'http://standards.freedesktop.org/menu-spec/menu-1.0.dtd'>
+<Menu>
+	<Name>Applications</Name>
+	<MergeFile type="parent">/etc/xdg/menus/mate-applications.menu</MergeFile>
+	<Menu>
+		<Name>Graphics</Name>
+		<Exclude>
+			<Filename>xdvi.desktop</Filename>
+		</Exclude>
+		<AppDir>/home/erik/.local/share/applications</AppDir>
+	</Menu>
+	<Menu>
+		<Name>Accessories</Name>
+		<Include>
+			<Filename>appimagelauncher.desktop</Filename>
+		</Include>
+		<AppDir>/home/ks/.local/share/applications</AppDir>
+	</Menu>
+</Menu>

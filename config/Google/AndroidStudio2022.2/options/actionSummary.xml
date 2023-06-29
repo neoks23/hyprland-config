@@ -1,0 +1,25 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="Android.DeviceManager">
+      <i c="1" l="1687878658329" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="31" l="1687878221719" />
+    </e>
+    <e n="FileChooser.NewFolder">
+      <i c="2" l="1687878158525" />
+    </e>
+    <e n="Run">
+      <i c="1" l="1687878498536" />
+    </e>
+    <e n="Stop">
+      <i c="1" l="1687878640443" />
+    </e>
+    <e n="WelcomeScreen.CreateNewProject">
+      <i c="2" l="1687878105575" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="3" l="1687878672457" />
+    </e>
+  </component>
+</application>
